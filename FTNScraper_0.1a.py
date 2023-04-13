@@ -4,7 +4,7 @@ import discord
 from discord.ext import commands
 from bs4 import BeautifulSoup
 
-TOKEN = 'MTA5NTg3ODY1OTYzOTg2OTQ1MA.Gi_Wok.SB-S8-OsvJ9xTmK_s6WFp0oPmqZtj5XWjIvhJM'
+TOKEN = 'PlaceHolder'
 
 intents = discord.Intents.default()
 intents.typing = False
